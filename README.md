@@ -17,14 +17,6 @@ This project focuses on analyzing Netflix’s global content data to uncover tre
   - Global content distribution
 - Developed an interactive dashboard for dynamic insights
 
-## Usage
-- Open the Tableau dashboard (`Global_Netflix_Insights.twbx`) in Tableau Desktop or Tableau Public
-- Explore filters and visualizations to gain insights into Netflix’s global content trends
-
-## Key Takeaways
-- Provides a clear view of Netflix’s content distribution worldwide
-- Highlights trends in genres, ratings, and yearly growth
-- Useful for market analysis, content strategy, and entertainment analytics
 
 
 
